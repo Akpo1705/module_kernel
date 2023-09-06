@@ -1,0 +1,1 @@
+cmd_/home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/13_ioctl/Module.symvers := sed 's/ko$$/o/' /home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/13_ioctl/modules.order | scripts/mod/modpost -m -a   -o /home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/13_ioctl/Module.symvers -e -i Module.symvers   -T -

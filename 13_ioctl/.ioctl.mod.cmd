@@ -1,0 +1,1 @@
+cmd_/home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/13_ioctl/ioctl.mod := { echo  /home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/13_ioctl/ioctl.o;  echo; } > /home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/13_ioctl/ioctl.mod

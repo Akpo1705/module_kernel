@@ -1,0 +1,6 @@
+{
+        "files.associations": {
+                "ioctl_test.h": "c",
+                "stdlib.h": "c"
+        }
+}

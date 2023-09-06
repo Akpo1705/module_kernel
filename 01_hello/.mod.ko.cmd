@@ -1,0 +1,1 @@
+cmd_/home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/mod/mod.ko := arm-linux-gnueabihf-ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/mod/mod.ko /home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/mod/mod.o /home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/mod/mod.mod.o;  true

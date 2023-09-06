@@ -1,0 +1,1 @@
+cmd_/home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/04_gpio/gpio_driver.mod := { echo  /home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/04_gpio/gpio_driver.o;  echo; } > /home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/04_gpio/gpio_driver.mod

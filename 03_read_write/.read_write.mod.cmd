@@ -1,0 +1,1 @@
+cmd_/home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/03_read_write/read_write.mod := { echo  /home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/03_read_write/read_write.o;  echo; } > /home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/03_read_write/read_write.mod

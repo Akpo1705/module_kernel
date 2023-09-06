@@ -1,0 +1,1 @@
+cmd_/home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/17_waitqueue/modules.order := {   echo /home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/17_waitqueue/waitqueue.ko; :; } | awk '!x[$$0]++' - > /home/alex/test/rasspbery_pi2/kernel/5.10/module_kern/17_waitqueue/modules.order
